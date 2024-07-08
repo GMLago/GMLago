@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @GMLago
+- 👋 Hi, I’m Gisela Lago
 
 --->
