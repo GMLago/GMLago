@@ -8,7 +8,7 @@ Estoy especialmente interesada en continuar con prácticas y capacitaciones actu
 
 ## Otros Conocimientos
 
-- **HTML| CSS | Java | JavaScript | Base de Datos | POO | 
+- **HTML| CSS | Java | JavaScript | Base de Datos | POObjeto | 
 
 
 ## Herramientas
