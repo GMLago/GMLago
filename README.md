@@ -1,4 +1,4 @@
- 👋 Hi, I’m Gisela Lago.
+ 👋 Hola! Soy Gisela Lago.
  Soy Tester QA con experiencia en aseguramiento de calidad de software, incluyendo la automatización de pruebas. Tengo habilidades sólidas en herramientas como Selenium WebDriver, TestNG y Postman, lo que me permite crear y ejecutar casos de prueba eficientes y efectivos.
 Además, tengo experiencia en la realización de pruebas de API y en la configuración de entornos de prueba.
 
@@ -8,18 +8,18 @@ Estoy especialmente interesada en continuar con prácticas y capacitaciones actu
 
 ## Otros Conocimientos
 
-- HTML| CSS | Java | JavaScript | Base de Datos | POObjeto | 
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)| ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)| ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) | Base de Datos | POObjeto | 
 
 
 ## Herramientas | Technologias
 
-- **![Selenium - WebDriver](https://img.shields.io/badge/SeleniumWebDriver-Green?style=plastic&logoSize=auto&labelColor=green&color=green):** Para la automatización de pruebas de aplicaciones web.
-- **![TestNG](https://img.shields.io/badge/TestNG-Red?style=plastic&logoColor=red&logoSize=auto&labelColor=red&color=black):** Framework de pruebas que permite la ejecución de pruebas automatizadas y la gestión de resultados.
-- **![Pos](
-https://img.shields.io/badge/Postman-Orange?style=plastic&logoSize=auto&labelColor=rgb&color=orange):** Para realizar pruebas de API, permitiendo enviar solicitudes y verificar respuestas.
-- **JIRA | Trello | Miro |**: Para la gestión de proyectos y seguimiento de errores.
-- **Git**: Control de versiones para el manejo de código fuente.
-- **Visual Studio | IntelliJ | MySQL |**: 
+- ![Selenium - WebDriver](https://img.shields.io/badge/SeleniumWebDriver-Green?style=plastic&logoSize=auto&labelColor=green&color=green) | *Para la automatización de pruebas de aplicaciones web.*
+- ![TestNG](https://img.shields.io/badge/TestNG-Red?style=plastic&logoColor=red&logoSize=auto&labelColor=red&color=black) | *Framework de pruebas que permite la ejecución de pruebas automatizadas y la gestión de resultados.*
+- ![Pos](
+https://img.shields.io/badge/Postman-Orange?style=plastic&logoSize=auto&labelColor=rgb&color=orange) | *Para realizar pruebas de API, permitiendo enviar solicitudes y verificar respuestas.*
+- ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC) | Miro | JIRA |  *Para la gestión de proyectos y seguimiento de errores.*
+- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) | *Control de versiones para el manejo de código fuente.*
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  | ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) | ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) | IntelliJ |
 
 ## Habilidades Relacionadas
 - Diseño de Test Plan | US.
@@ -32,6 +32,9 @@ https://img.shields.io/badge/Postman-Orange?style=plastic&logoSize=auto&labelCol
 ## Contacto
 
 - **Ubicación:** Ciudad Autónoma De Buenos Aires. Argentina.
+- 
+  ![Gmail Badge](https://img.shields.io/badge/-giselalago@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giselalago@gmail.com)
+
 - **Email:** [giselalago@gmail.com]
 <table align='left'>
   <tr>
