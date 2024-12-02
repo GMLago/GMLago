@@ -1,3 +1,9 @@
+<div align="center">
+ <img src="https://i.imgur.com/SjU4sei.gif" width= "400" height="250">
+ </div>
+ 
+ 
+ 
  👋 Hola! Soy Gisela Lago.
  Soy Tester QA con experiencia en aseguramiento de calidad de software, incluyendo la automatización de pruebas. Tengo habilidades sólidas en herramientas como Selenium WebDriver, TestNG y Postman, lo que me permite crear y ejecutar casos de prueba eficientes y efectivos.
 Además, tengo experiencia en la realización de pruebas de API y en la configuración de entornos de prueba.
