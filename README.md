@@ -1,6 +1,4 @@
-<div align="center">
- <img src="https://i.imgur.com/SjU4sei.gif" width= "400" height="250">
- </div>
+
  
  
  
