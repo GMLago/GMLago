@@ -1,14 +1,16 @@
 
- 
- 
- 
- 👋 Hola! Soy Gisela Lago.
- Soy Tester QA con experiencia en aseguramiento de calidad de software, incluyendo la automatización de pruebas. Tengo habilidades sólidas en herramientas como Selenium WebDriver, TestNG y Postman, lo que me permite crear y ejecutar casos de prueba eficientes y efectivos.
-Además, tengo experiencia en la realización de pruebas de API y en la configuración de entornos de prueba.
+ # 👋 ¡Hola! Soy Gisela Lago
 
-Como parte de mi crecimiento personal y transformación profesional, actualmente estoy avanzando exitosamente en la capacitación para convertirme en desarrollador Backend en el Inst. de Tecnologías -Educación IT-.
+Soy Tester QA con enfoque en calidad de software y automatización de pruebas. Actualmente me encuentro fortaleciendo mis habilidades en **automatización con Playwright y TypeScript**, y en paralelo, explorando el desarrollo **Backend con Python**, .integrando así dos áreas que se complementan para entregar soluciones más robustas y confiables.
 
-Estoy especialmente interesada en continuar con prácticas y capacitaciones actualizadas, así como en conectarme con la comunidad IT. Mi objetivo es aportar mis habilidades y experiencias, buscando formas de integrar estos conocimientos en mi trabajo para mejorar la experiencia del usuario final y contribuir al éxito de los proyectos de software.
+Me interesa trabajar con herramientas modernas, buenas prácticas de testing y metodologías ágiles. Disfruto especialmente de la automatización de pruebas, el análisis de flujos funcionales, la validación de APIs y el aprendizaje continuo en entornos técnicos desafiantes.
+
+🔍 En este repositorio vas a encontrar ejemplos de automatización, pruebas manuales y ejercicios prácticos relacionados con mis áreas de estudio e interés.
+
+💬 Siempre abierta a compartir, colaborar y aprender junto a la comunidad IT.
+
+📫 Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/giselalago) o dejar un mensaje en alguno de mis proyectos.
+
 
 ## Otros Conocimientos
 
