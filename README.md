@@ -1,11 +1,11 @@
 
- # 👋 ¡Hola! Soy Gisela Lago
+# 👋 ¡Hola! Soy Gisela 
 
-Soy Tester QA con enfoque en calidad de software y automatización de pruebas. Actualmente me encuentro fortaleciendo mis habilidades en **automatización con Playwright y TypeScript**, y en paralelo, explorando el desarrollo **Backend con Python**, .integrando así dos áreas que se complementan para entregar soluciones más robustas y confiables.
+Soy Tester QA con enfoque en calidad de software y automatización de pruebas. Actualmente me encuentro fortaleciendo mis habilidades en **automatización con Playwright y TypeScript**, y en paralelo, explorando el desarrollo **Backend con Python**, integrando así dos áreas que se complementan para entregar soluciones más robustas y confiables.
 
 Me interesa trabajar con herramientas modernas, buenas prácticas de testing y metodologías ágiles. Disfruto especialmente de la automatización de pruebas, el análisis de flujos funcionales, la validación de APIs y el aprendizaje continuo en entornos técnicos desafiantes.
 
-🔍 En este repositorio vas a encontrar ejemplos de automatización, pruebas manuales y ejercicios prácticos relacionados con mis áreas de estudio e interés.
+🔎 En este repositorio vas a encontrar ejemplos de automatización, pruebas manuales y ejercicios prácticos relacionados con mis áreas de estudio e interés.
 
 💬 Siempre abierta a compartir, colaborar y aprender junto a la comunidad IT.
 
